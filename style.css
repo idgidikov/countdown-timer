@@ -26,8 +26,9 @@ body {
 
 }
 .all-text{
-    margin-bottom: 18rem;
-    margin-right: 44rem;
+    margin-bottom: 25rem;
+    margin-right: 0rem;
+    margin-left: 45rem;
 }
 h1 {
     font-weight: normal;
